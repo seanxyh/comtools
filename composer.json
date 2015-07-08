@@ -1,0 +1,11 @@
+{
+    "name": "seanxyh/comtools",
+    "type": "library",
+    "discrption": "第二个composer库",
+    "config": {
+        "vendor-dir": "Vendor"
+    },
+    "require" : {
+        "php": ">=5.3.0"
+    }
+}
